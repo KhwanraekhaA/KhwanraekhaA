@@ -16,7 +16,6 @@
 - [x] Computer Networks
 - [x] Database
 - [x] Embedded System 
-- [ ] Computer Architecture and Organization
 - [x] Operating Systems
 
 > Frameworks 
