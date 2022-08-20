@@ -8,7 +8,7 @@
 -  My name is Khwanraekha Aneksuk
 -  Student id: 63360682
 -  I'm currently studying Faculty of Engineering.
--  My career interest in the future is Frontend/Backend Developer.
+-  My career interest in the future is Sotfware Engineer.
 
 # Developer Tech
 
